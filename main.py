@@ -4,7 +4,7 @@ import sys
 import re
 import os
 
-# Configuarion default.
+# Configuration default.
 cfg = {
     'file': None,
     'output_dir': '.',

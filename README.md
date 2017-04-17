@@ -1,6 +1,6 @@
 # pycss
 
-Pycss is a experimental preprocesor of css made with python. This is on **development**.
+Pycss is a experimental preprocessor of css made with python. This is on **development**.
 
 ## Installation
 
@@ -11,6 +11,8 @@ Pycss is a experimental preprocesor of css made with python. This is on **develo
 ## Usage
 
 For get information about the usage execute `pycss -h`.
+
+Check the examples in `examples` for know about of the syntax.
 
 ## License
 
